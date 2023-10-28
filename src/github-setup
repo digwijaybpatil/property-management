@@ -12,5 +12,5 @@ After initial set up of git and github for updating the changes
 =========================================================================
 1- git pull (to download the change from git repo)
 2- git add filename
-3- git commit -m "message"
+3- git commit -m "message added"
 4- git push
