@@ -1,6 +1,16 @@
+This is for first time git and github set up
+=======================================================
 1- git init
 2- git add .
 3- git commit -m "initial commit"
 4- git remote add origin https://github.com/digwijaybpatil/property-management.git
-5- git remote set-url origin https://digwijaybpatil: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@github.com/digwijaybpatil/property-management.git
+5- git remote set-url origin https://digwijaybpatil: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@github.com/digwijaybpatil/property-management.git
 6- git push --set-upstream origin main
+
+
+After initial set up of git and github for updating the changes
+=====================================================================
+1- git pull
+2- git add filename
+3- git commit -m "message"
+4- git push
