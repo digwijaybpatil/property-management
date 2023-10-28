@@ -4,7 +4,7 @@ This is for first time git and github set up
 2- git add .
 3- git commit -m "initial commit"
 4- git remote add origin https://github.com/digwijaybpatil/property-management.git
-5- git remote set-url origin https://digwijaybpatil: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@github.com/digwijaybpatil/property-management.git
+5- git remote set-url origin https://digwijaybpatil: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@github.com/digwijaybpatil/property-management.git
 6- git push --set-upstream origin main
 
 
