@@ -1,0 +1,6 @@
+1- git init
+2- git add .
+3- git commit -m "initial commit"
+4- git remote add origin https://github.com/digwijaybpatil/property-management.git
+5- git remote set-url origin https://digwijaybpatil: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@github.com/digwijaybpatil/property-management.git
+6- git push --set-upstream origin main
